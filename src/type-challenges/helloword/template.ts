@@ -8,4 +8,4 @@
  * 
  * Copyright (c) 2022 by wangzhanyuan dreamworks.cnn@gmail.com, All Rights Reserved. 
  */
-type MyPick<T, K> = any
+type HelloWorld = string // expected to be a string
